@@ -7,7 +7,6 @@ Frontend Developer
 I'm a passionate frontend developer specializing in building dynamic and user-friendly interfaces using the MERN stack (MongoDB, Express.js, React.js, and Node.js)
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [diptiku2002@gmail.com](mailto:diptiku2002@gmail.com)
 * 🧠  I'm learning Backend with node environment
 
 ### Skills
