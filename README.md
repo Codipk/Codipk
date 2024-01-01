@@ -1,8 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dipti Kumari
-====================================================================================================================================
+                             Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dipti Kumari
+============================================================================================================================================================================================================================================================================================================================================================
 
-Frontend Developer
-------------------
+
+
+                                                               Frontend Developer
+                                                              ---------------------
 
 I'm a passionate frontend developer specializing in building dynamic and user-friendly interfaces using the MERN stack (MongoDB, Express.js, React.js, and Node.js)
 
