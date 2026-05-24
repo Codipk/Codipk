@@ -7,9 +7,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=Codipk&icon=6&color=6)](https://visitcount.itsvg.in)
 
-# 💫 About Me:
-🔭 I’m currently working on [Slum-Scholar](https://github.com/Codipk/Slum-Scholars)<br>🌱 I’m currently learning Machine Learning/AI and AWS<br>📄 Know about my experiences - [Resume Link](https://drive.google.com/file/d/15UTXKdLZvuxlHze_NFLL4xj-vER8PEbU/view?usp=sharing)
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diptikumari0410/) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCCWYsjnwZ08pOapwTEw9xOA) 
